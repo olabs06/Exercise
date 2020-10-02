@@ -11,8 +11,8 @@ This an age calculator app that was design as a classwork for HomeFront Start 6 
    * CSS
    * JavaScript
 
-# Link
-This is a link (https://github.com/olabs06/Exercise.git).
+# Live Demo
+This is a live demo (https://raw.githack.com/olabs06/Exercise/master/index.html).
     
 
 # Author
