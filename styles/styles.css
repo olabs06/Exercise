@@ -1,0 +1,72 @@
+.main {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.firstpage {
+    padding: 3%;
+    margin-left: 40%;
+    border: 10px;
+    border-radius: 20px;
+    height: 30%;
+    width: 20%;
+    background:lightgrey 10px;
+    margin-bottom: 5%;
+}
+.container1{
+    text-align: center;
+   }
+.h1{
+    text-decoration: underline;
+}
+.main-text{
+    text-decoration: none;
+    padding-bottom: 10%;
+}
+.btn1, .btn2, .btn3{
+    padding: 5%;
+    border-radius: 20px;
+    background: #ffffff 5px;
+    margin-left: 35%;
+}
+.btn2{
+    margin-top: 5%;
+}
+.form{
+    padding: 5%;
+}
+.yourName{
+    margin-bottom: 5%;
+    padding: 3%;
+    width: 100%;
+}
+.yourAge{
+    margin-bottom: 5%;
+    padding: 3%;
+    width: 100%;
+}
+.secondpage{
+    padding: 3%;
+    margin-left: 40%;
+    border: 10px;
+    border-radius: 20px;
+    height: 30%;
+    width: 20%;
+    background:lightgrey 10px;
+    margin-bottom: 5%;
+    
+}
+.hidden{
+    display: none
+}
+
+.thirdpage{
+    padding: 3%;
+    margin-left: 40%;
+    border: 10px;
+    border-radius: 20px;
+    height: 30%;
+    width: 20%;
+    background:lightgrey 10px;
+    margin-bottom: 5%;
+}
