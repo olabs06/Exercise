@@ -36,8 +36,6 @@ button2.addEventListener("click", function(e){
 
         
          
-    
-
     secondPage.classList.add('hidden');
     thirdPage.classList.remove('hidden');
 
